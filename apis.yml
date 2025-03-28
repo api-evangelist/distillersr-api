@@ -5,7 +5,8 @@ apis:
   - aid: distillersr-api:distillersr-api
     name: DistillerSR API
     tags:
-      - API
+      - Literature Reviews
+      - Healthcare
     humanURL: ' https://apidocs.evidencepartners.com/'
     properties:
       - url: ' https://apidocs.evidencepartners.com/'
