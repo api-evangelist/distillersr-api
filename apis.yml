@@ -7,9 +7,9 @@ apis:
     tags:
       - Literature Reviews
       - Healthcare
-    humanURL: ' https://apidocs.evidencepartners.com/'
+    humanURL: https://www.distillersr.com/
     properties:
-      - url: ' https://apidocs.evidencepartners.com/'
+      - url: https://apidocs.evidencepartners.com/
         type: Documentation
     description: >-
       The DistillerSR API documentation is designed for technical users to learn
