@@ -16,9 +16,9 @@ apis:
       how various features in Distiller can be interacted with via the API for
       use with automated scripts, and leveraged in projects outside of
       DistillerSR. DistillerSR allows users to perform systematic reviews by
-      importing references from various sources (like PubMed, EBSCO, etc.),
-      reviewing references, and generating reports containing reviewer response
-      sets, extracted data, and other statistics. 
+      importing references from various sources, reviewing references, and
+      generating reports containing reviewer response sets, extracted data, and
+      other statistics.
 name: DistillerSR
 tags:
   - Literature Reviews
@@ -27,18 +27,18 @@ type: Contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 created: '2025-02-24'
-modified: '2025-03-27'
+modified: '2026-03-16'
 position: Consuming
 description: >-
   Behind every new scientific discovery, every new device, every new drug and
-  new policy guideline, there are literature reviews. Our software enables our
+  new policy guideline, there are literature reviews. Our software enables
   customers to securely automate the management of evidence-based research and
-  the analysis of its datafaster, more accurately, and more transparently at
-  scale. Thats why the worlds leading healthcare research organizations trust
+  the analysis of its data faster, more accurately, and more transparently at
+  scale. That is why the world's leading healthcare research organizations trust
   us for their literature reviews.
 maintainers:
   - FN: Kin Lane
-    email: info@apievangelist.com
+    email: kin@apievangelist.com
 specificationVersion: '0.19'
 common:
   - name: Systematic Review and Literature Review Software by DistillerSR
@@ -57,23 +57,15 @@ common:
     description: 'null'
     url: https://www.distillersr.com/resources#case-studies
     type: CaseStudies
-  - name: DistillerSR Blog Listing - DistillerSR
+  - name: DistillerSR Blog - DistillerSR
     description: 'null'
     url: https://www.distillersr.com/resources/blog
     type: Blog
-  - name: DistillerSR Blog Listing - DistillerSR
-    description: 'null'
-    url: https://www.distillersr.com/resources/blog
-    type: Blog
-  - name: DistillerSR Blog Listing - DistillerSR
-    description: 'null'
-    url: https://www.distillersr.com/resources/blog
-    type: Blog
-  - name: Resources - DistillerSR
+  - name: Resources - DistillerSR Webinars
     description: 'null'
     url: https://www.distillersr.com/resources#webinars
     type: Webinars
-  - name: Resources - DistillerSR
+  - name: Resources - DistillerSR Guides
     description: 'null'
     url: https://www.distillersr.com/resources#guides
     type: Guide
@@ -89,12 +81,12 @@ common:
     description: 'null'
     url: https://www.distillersr.com/partners
     type: Partners
-  - name: DistillerSR Inc. Privacy Statement - DistillerSR
+  - name: DistillerSR Inc. Privacy Statement
     description: 'null'
     url: >-
       https://www.distillersr.com/evidence-partners-incorporated-website-privacy-statement
     type: PrivacyPolicy
-  - name: DistillerSR Inc. Website Terms of Use - DistillerSR
+  - name: DistillerSR Inc. Website Terms of Use
     description: 'null'
     url: >-
       https://www.distillersr.com/evidence-partners-incorporated-website-terms-of-use
