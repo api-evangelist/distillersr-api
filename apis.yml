@@ -5,8 +5,8 @@ apis:
   - aid: distillersr-api:distillersr-api
     name: DistillerSR API
     tags:
-      - Literature Reviews
       - Healthcare
+      - Literature Reviews
     humanURL: https://www.distillersr.com/
     properties:
       - url: https://apidocs.evidencepartners.com/
@@ -21,8 +21,8 @@ apis:
       other statistics.
 name: DistillerSR
 tags:
-  - Literature Reviews
   - Healthcare
+  - Literature Reviews
 type: Contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
