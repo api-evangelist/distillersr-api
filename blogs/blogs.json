@@ -1,0 +1,13 @@
+{
+  "repo": "distillersr-api",
+  "feeds": [
+    {
+      "source": "https://www.distillersr.com/resources/blog",
+      "feed_url": "https://www.distillersr.com/feed",
+      "saved": 10,
+      "title": "DistillerSR"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:27:09Z"
+}
