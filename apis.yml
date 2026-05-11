@@ -93,6 +93,29 @@ common:
     url: >-
       https://www.distillersr.com/evidence-partners-incorporated-website-terms-of-use
     type: TermsOfService
+  - type: Integrations
+    url: https://www.distillersr.com/partners
+integrations:
+  - name: DistillerSR
+  - name: Contact Sales Icon, DistillerSR
+  - name: Quality Ribbon
+  - name: Scalable
+  - name: Ribbon
+  - name: ROI Icon, DistillerSR
+  - name: Books
+  - name: Map
+  - name: Graphic
+  - name: Handshake
+  - name: Stars
+  - name: Clarivate
+  - name: Copyright Clarence Center
+  - name: Research Solutions Reprints Desk
+  - name: AKRA, DistillerSR Partner
+  - name: Global Quality Space
+  - name: Hemetek
+  - name: DistillerSR Inc.
+  - name: linkedin
+  - name: envelope
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
