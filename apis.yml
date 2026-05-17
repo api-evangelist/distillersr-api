@@ -5,7 +5,7 @@ url: >-
 modified: '2026-04-28'
 created: '2025-02-24'
 specificationVersion: '0.19'
-type: Contract
+kind: contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 position: Consuming
