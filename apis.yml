@@ -43,6 +43,8 @@ apis:
       references, and generating reports containing reviewer response sets,
       extracted data, and other statistics.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/distillersr
   - name: Systematic Review and Literature Review Software by DistillerSR
     description: 'null'
     url: https://www.distillersr.com/
