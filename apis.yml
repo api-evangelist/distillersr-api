@@ -43,6 +43,10 @@ apis:
       references, and generating reports containing reviewer response sets,
       extracted data, and other statistics.
 common:
+  - type: TrustCenter
+    url: security/distillersr-api-trust-center.yml
+  - type: DomainSecurity
+    url: security/distillersr-api-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/distillersr
   - name: Systematic Review and Literature Review Software by DistillerSR
