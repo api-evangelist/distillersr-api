@@ -66,6 +66,12 @@ apis:
       references, and generating reports containing reviewer response sets,
       extracted data, and other statistics.
 common:
+  - type: Plans
+    url: plans/distillersr-api-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/distillersr-api-rate-limits.yml
+  - type: FinOps
+    url: finops/distillersr-api-finops.yml
   - type: TrustCenter
     url: security/distillersr-api-trust-center.yml
   - type: DomainSecurity
